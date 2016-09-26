@@ -84,7 +84,7 @@ order: 7
 <p v-show="!condition">这可能也是一个组件</p>
 ```
 
-这样就可以达到 `v-if` 的效果。
+这样就可以达到 `v-else` 的效果。
 
 ## v-if vs. v-show
 
